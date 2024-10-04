@@ -5,7 +5,7 @@ public class Magasin
     private String adresse;
     private ArrayList<Produit> ProduitMagasin=new ArrayList<Produit>();
 
-    //Constructeur de la classe magasin
+    //Constructeur de la classe magasin2
     public ArrayList<Produit> getProduitMagasin() {
         return ProduitMagasin;
     }
